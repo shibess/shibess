@@ -1,5 +1,5 @@
 - @shibess : he/him
 - Machine Learning, Computational Linguistics, Music Technology
-- Computer Science, Artificial Intelligence, and Linguistics @ Purdue University
+- Computer Science, Artificial Intelligence, and Linguistics majors @ Purdue University
 - dlarouch@purdue.edu
 - EN / FR
