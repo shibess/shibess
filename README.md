@@ -1,5 +1,8 @@
-- @shibess : he/him
-- Machine Learning, Computational Linguistics, Music Technology
-- Computer Science, Artificial Intelligence, and Linguistics majors @ Purdue University
+- @shibess : he/him+they/them
+- Machine Learning, Computational Linguistics, Music Technology, Speech Development, and Diarization
+- Computer Science and Linguistics @ Purdue 
+- Infant Speech Lab @ Purdue 
 - dlarouch@purdue.edu
+- socials : tiktok+twitter @digitalcanidae : discord @shibes
+- site : https://shibes.net
 - EN / FR
