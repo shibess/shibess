@@ -3,6 +3,6 @@
 - Computer Science and Linguistics @ Purdue 
 - Infant Speech Lab @ Purdue 
 - dlarouch@purdue.edu
-- socials : tiktok+twitter @digitalcanidae : discord @shibes
+- socials : discord @shibes
 - site : https://shibes.net
 - EN / FR
