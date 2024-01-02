@@ -1,8 +1,8 @@
 - @shibess : he/him+they/them
 - Machine Learning, Computational Linguistics, Music Technology, Speech Development, and Diarization
-- Computer Science and Linguistics @ Purdue 
-- Infant Speech Lab @ Purdue 
+- Linguistics & Computer Science @ Purdue 
+- Infant Speech Lab / Indigenous and Endangered Languages Lab / Computational Linguistics Lab @ Purdue
 - dlarouch@purdue.edu
 - socials : discord @shibes
-- site : https://shibes.net
+- site : https://222online.net
 - EN / FR
